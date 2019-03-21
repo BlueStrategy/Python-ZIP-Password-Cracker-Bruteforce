@@ -4,9 +4,12 @@
 
 **|| Python ZIP Password Cracker Bruteforce || Zip Cracking || Bruteforce || Code Walk-through ||**
 
-## Required Modules
-**ZIPfile** <code>pip install zipfile</code>
-**Colorama** <code>pip install colorama</code>
+## Modules
+**ZIPfile**
+<code>pip install zipfile</code>
+<br>
+**Colorama**
+<code>pip install colorama</code>
 
 ## Built With
 
