@@ -13,7 +13,7 @@
 <br>
 <code>pip install colorama</code>
 
-## Modules
+## Usage Examples
 **[+] Enter Your ZIP File :**
 <br>
 <code>locked.zip</code>
