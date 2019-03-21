@@ -21,11 +21,8 @@ Password : 1234</code>
 
 ## Usage Examples
 **[+] Enter Your ZIP File :**
-<br>
 <code>locked.zip</code>
-<br>
 **[+] Enter Password list :**
-<br>
 <code>pswd.txt</code>
 
 ## Built With
