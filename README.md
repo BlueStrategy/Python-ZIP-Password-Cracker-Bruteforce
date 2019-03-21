@@ -16,12 +16,13 @@
 ## What's happen when it cracked?
 **All Cracked files will be in a file called : cracked.txt as
 <br>
-<code>File : locked.zip
+<code>File : locked.zip<br>
 Password : 1234</code>
 
 ## Usage Examples
 **[+] Enter Your ZIP File :**
 <code>locked.zip</code>
+<br>
 **[+] Enter Password list :**
 <code>pswd.txt</code>
 
