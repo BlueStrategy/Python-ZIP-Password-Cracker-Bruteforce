@@ -13,6 +13,12 @@
 <br>
 <code>pip install colorama</code>
 
+## What's happen when it cracked?
+**All Cracked files will be in a file called : cracked.txt as
+<br>
+<code>File : locked.zip
+Password : 1234</code>
+
 ## Usage Examples
 **[+] Enter Your ZIP File :**
 <br>
